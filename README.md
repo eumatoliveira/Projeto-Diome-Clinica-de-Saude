@@ -1,5 +1,9 @@
 # Clínica Médica Multiespecialidades "Saúde Plena"
 
+## Imagens do Projeto
+![Imagem da Página Principal](https://github.com/eumatoliveira/Projeto-Diome-Clinica-de-Saude/blob/main/Screenshot%202025-04-06%20210528.png)
+![Imagem da Página de Contato](https://github.com/eumatoliveira/Projeto-Diome-Clinica-de-Saude/blob/main/Screenshot%202025-04-06%20210550.png)
+
 Este projeto consiste em um site HTML simples para uma clínica médica multiespecialidades, seguindo os princípios Clean Code e SOLID para garantir um código limpo, organizado e fácil de manter.
 
 ## Estrutura do Projeto
